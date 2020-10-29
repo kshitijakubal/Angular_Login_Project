@@ -1,0 +1,11 @@
+
+<div class="card text-center">
+    <h1>Please Rate my performance</h1>
+<ngb-rating [max]="5" [(rate)]="currentRate" [readonly]="false"></ngb-rating>
+<p>Rate: {{ currentRate }}</p>
+</div>
+<div class="container text-center">
+    <h2>Please add comments(if any).</h2>
+    <textarea rows="5" cols="75"></textarea><br>
+    <button type="submit" class="btn btn-success">Submit</button>
+</div>
