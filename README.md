@@ -1,0 +1,2 @@
+# Angular_Login_Project
+Problem Statement:  There is a boy called Chintu. He wants to learn Angular from you. So he want to do login first (with static data). Redirect to next page of table where some demo data will be listed. You can get it from here https://jsonplaceholder.typicode.com/posts  Use pagination for good purpose. And should use lazy loading otherwise he will not be happy.  For UI do some animation for him.  And the last give him a surprise with your skill. (Anything except above requirements)
